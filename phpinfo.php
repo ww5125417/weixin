@@ -1,4 +1,4 @@
-这是branch_test分支下的phpinfo
+这是master分支下的phpinfo
 <?php
 	#http://localhost/phpinfo.php?param=1
 	phpinfo();
